@@ -1,4 +1,4 @@
-# Eaí, viajante👋,
+# Hello, World👋,
 Em suma...  
 Sou um mero DEV PHP e Python 🐘🐍,  
 Gosto muito de esportes e de programação,  
