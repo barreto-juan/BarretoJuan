@@ -1,13 +1,16 @@
 # Hello World👋😄,
 
-> Eu sou o Juan e...  
->
-> Tá aqui mais um Dev ___PHP___ e ___Python___ 🐘🐍.  
-> Gosto muito de esportes e de programação🧮,  
-> Sou formado pelo IFSULDEMINAS - Campus Inconfidentes(TI🖥️) e  
-> No momento me aventuro por novas áreas como marketing e publicidade.  
+<blockquote align="left"> 
+ Eu sou o Juan e...  
 
-```Tecnologias que me aventuro:```
+ Tá aqui mais um Dev ___PHP___ e ___Python___ 🐘🐍.  
+ Gosto muito de esportes e de programação🧮,  
+ Sou formado pelo IFSULDEMINAS - Campus Inconfidentes(TI🖥️) e  
+ No momento me aventuro por novas áreas como marketing e publicidade.  
+</blockquote>  
+
+# Tecnologias que me aventuro:  
+
 <p>
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" height="40" width="40">
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" height="40" width="40">
@@ -25,6 +28,8 @@
 <img src="https://www.coreldraw.com/static/cdgs/product_content/cdgs/2019/boxshot-coreldraw-upgrade-program-2019.png" height="40" width="40">
 </p>
 
-
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barreto-juan&show_icons=true&theme=dark&border_radius=10px)](https://github.com/anuraghazra/github-readme-stats)  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barreto-juan&layout=compact&theme=dark&border=10px)](https://github.com/anuraghazra/github-readme-stats)  
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)  
  
- <!---[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barreto-juan&show_icons=true&theme=radical&border_radius=10px)](https://github.com/anuraghazra/github-readme-stats)--->
+ 
