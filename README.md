@@ -1,5 +1,3 @@
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> hello world,
 
 <p>
@@ -12,7 +10,17 @@
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barreto-juan&show_icons=true&theme=dark&border_radius=10px)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barreto-juan&layout=compact&theme=dark&border=10px)](https://github.com/anuraghazra/github-readme-stats)   
- 
+
+- <b> how i spent my time this week </b>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+- <b> my todoit stats</b>
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END-->
+
 - <b> languages and tools 🧑‍💻🔨</b>  
 
 <p>
@@ -37,19 +45,19 @@
   <a href="https://discord.com/">
    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
- 
+
   <a href="https://www.instagram.com/_p4rd4l_/">
    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  
+
   <a href="mailto:jbarreto2105@gmail.com">
    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
- 
+
   <a href="https://www.linkedin.com/in/juan-barreto-167386233/">
    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  
+
   <a href="https://github.com/barreto-juan/">
    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
