@@ -1,6 +1,6 @@
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> hello world,
 
-<p>
+- <p>
   bem-vindo ao meu perfil, role e veja minhas habilidades e estatísticas por aqui
 </p>
 
@@ -12,9 +12,6 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barreto-juan&layout=compact&theme=dark&border=10px)](https://github.com/anuraghazra/github-readme-stats)   
 
 - <b> how i spent my time this week </b>  
-
-<!--START_SECTION:waka--> 
-<!--END_SECTION:waka-->
 
 - <b> languages and tools 🧑‍💻🔨</b>  
 
