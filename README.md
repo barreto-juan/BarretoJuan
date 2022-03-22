@@ -6,13 +6,13 @@
 
 - ### my github stats 📊🕹️
 <p align="center">
- <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=barreto-juan&show_icons=true&theme=dark&border_radius=10px)](https://github.com/anuraghazra/github-readme-stats">
- <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barreto-juan&layout=compact&theme=dark&border=10px)](https://github.com/anuraghazra/github-readme-stats">
+ <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=barreto-juan&show_icons=true&theme=tokyonight&border_radius=10px)](https://github.com/anuraghazra/github-readme-stats">
+ <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barreto-juan&layout=compact&theme=tokyonight&border=10px)](https://github.com/anuraghazra/github-readme-stats">
 </p>
 
 - ### languages and tools 🧑‍💻⚒️  
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -30,24 +30,16 @@
 
 - ### contact me 📮💌
 
-<p>
-  <a href="https://discord.com/channels/@me" target="_blank">
-   <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-
-  <a href="https://www.instagram.com/_p4rd4l_/" target="_blank">
-   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-
+<p align="center">
   <a href="mailto:jbarreto2105@gmail.com" target="_blank">
-   <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+   <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
   <a href="https://www.linkedin.com/in/juan-barreto-167386233/" target="_blank">
-   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+   <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
   <a href="https://github.com/barreto-juan/" target="_blank">
-   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+   <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
  </p>
