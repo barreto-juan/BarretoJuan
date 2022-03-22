@@ -1,8 +1,6 @@
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> hello world,
 
-<p>
-  welcome to my profile, my name's juan michellangelo and i'm a backend developer living in mg, brazil 🇧🇷👾🖲️
-</p>
+- <b>welcome to my profile, my name's juan michellangelo and i'm a backend developer living in mg, brazil 🇧🇷👾🖲️🦄</b>
 
  ![](https://komarev.com/ghpvc/?username=barreto-juan&style=plastic&label=visitors&color=brightgreen)  
 
