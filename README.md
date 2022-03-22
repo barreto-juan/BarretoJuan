@@ -4,13 +4,11 @@
 
  ![](https://komarev.com/ghpvc/?username=barreto-juan&style=plastic&label=visitors&color=brightgreen)  
 
-- ### my github stats 📊
-
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barreto-juan&show_icons=true&theme=dark&border_radius=10px)](https://github.com/anuraghazra/github-readme-stats)   
-
-- ### my top langs 🕹️
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barreto-juan&theme=dark&border=10px)](https://github.com/anuraghazra/github-readme-stats)  
+- ### my github stats 📊🕹️
+<p align="center">
+ <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=barreto-juan&show_icons=true&theme=dark&border_radius=10px)](https://github.com/anuraghazra/github-readme-stats">
+ <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barreto-juan&layout=compact&theme=dark&border=10px)](https://github.com/anuraghazra/github-readme-stats">
+</p>
 
 - ### languages and tools 🧑‍💻⚒️  
 
@@ -30,26 +28,26 @@
   <img src="https://img.shields.io/badge/-VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
-- ### contact me 📮
+- ### contact me 📮💌
 
 <p>
-  <a href="https://discord.com/">
+  <a href="https://discord.com/channels/@me" about="_blank">
    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 
-  <a href="https://www.instagram.com/_p4rd4l_/">
+  <a href="https://www.instagram.com/_p4rd4l_/" about="_blank">
    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
-  <a href="mailto:jbarreto2105@gmail.com">
+  <a href="mailto:jbarreto2105@gmail.com" about="_blank">
    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-  <a href="https://www.linkedin.com/in/juan-barreto-167386233/">
+  <a href="https://www.linkedin.com/in/juan-barreto-167386233/" about="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="https://github.com/barreto-juan/">
+  <a href="https://github.com/barreto-juan/" about="_blank">
    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
  </p>
