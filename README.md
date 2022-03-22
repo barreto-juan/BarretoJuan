@@ -11,15 +11,10 @@
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barreto-juan&show_icons=true&theme=dark&border_radius=10px)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barreto-juan&layout=compact&theme=dark&border=10px)](https://github.com/anuraghazra/github-readme-stats)   
 
-- <b> how i spent my time this week </b>
+- <b> how i spent my time this week </b>  
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka--> 
 <!--END_SECTION:waka-->
-
-- <b> my todoit stats</b>
-
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END-->
 
 - <b> languages and tools 🧑‍💻🔨</b>  
 
