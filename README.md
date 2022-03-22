@@ -1,19 +1,20 @@
-### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> hello world,
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> hello world,
 
 - <p>
-  bem-vindo ao meu perfil, role e veja minhas habilidades e estatísticas por aqui
+  bem-vindo ao meu perfil, role e veja minhas habilidades e estatísticas por aqui 👾🖲️
 </p>
 
- ![](https://komarev.com/ghpvc/?username=barreto-juan&style=plastic&label=Profile+Views&color=blueviolet)  
+ ![](https://komarev.com/ghpvc/?username=barreto-juan&style=plastic&label=visitors&color=brightgreen)  
 
-- <b> my github stats 📊</b>
+- ### my github stats 📊
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barreto-juan&show_icons=true&theme=dark&border_radius=10px)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barreto-juan&layout=compact&theme=dark&border=10px)](https://github.com/anuraghazra/github-readme-stats)   
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barreto-juan&show_icons=true&theme=dark&border_radius=10px)](https://github.com/anuraghazra/github-readme-stats)   
 
-- <b> how i spent my time this week </b>  
+- ### my top langs 🕹️
 
-- <b> languages and tools 🧑‍💻🔨</b>  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barreto-juan&theme=dark&border=10px)](https://github.com/anuraghazra/github-readme-stats)  
+
+- ### languages and tools 🧑‍💻⚒️  
 
 <p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -31,7 +32,7 @@
   <img src="https://img.shields.io/badge/-VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
-- <b>contact me 📮</b>
+- ### contact me 📮
 
 <p>
   <a href="https://discord.com/">
