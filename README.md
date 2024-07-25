@@ -1,7 +1,8 @@
 ## Olá, tudo certo? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
--  ### Bem vindo, meu nome é Juan e eu sou um dev backend que atualmente vive em Minas Gerais, Brasil 🇧🇷👾
--  #### Um entusiasta em PHP 🐘❤️
+-  ### Bem vindo, meu nome é Juan
+-  ### MG, Brazil 🇧🇷👾
+-  #### PHP 🐘❤️
 
 <p align="center">
  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=barreto-juan&show_icons=true&theme=tokyonight&border_radius=10px)](https://github.com/anuraghazra/github-readme-stats">
